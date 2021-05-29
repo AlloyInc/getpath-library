@@ -1,6 +1,8 @@
 # getpath-library
 [![](https://jitpack.io/v/AlloyInc/getpath-library.svg)](https://jitpack.io/#AlloyInc/getpath-library)
 
+This library helps to get path in String Format from intent.
+
 # Step 1. Add the JitPack repository to your build file
 ```
 allprojects {
