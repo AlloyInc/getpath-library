@@ -1,4 +1,4 @@
-# getpath-library
+# Get Path Library
 [![](https://jitpack.io/v/AlloyInc/getpath-library.svg)](https://jitpack.io/#AlloyInc/getpath-library)
 
 This library helps to get path in String Format from intent.
